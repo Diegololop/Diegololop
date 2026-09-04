@@ -64,7 +64,7 @@ Es un sitio estático con un mapa satelital interactivo que muestra los 31 lotes
 
 ### Vental
 
-**www.vental.cl**
+**vental.cl**
 
 Sistema de punto de venta (POS) de escritorio pensado para minimarkets y almacenes de barrio, capaz de operar sin conexión a internet.
 
