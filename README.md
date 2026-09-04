@@ -36,7 +36,7 @@ Incluye panel de administración con dashboard e informes, control de inventario
 
 ### SmartCall
 
-**www.smartcallvercel.cl**
+**www.smartcall.cl**
 
 Sistema de gestión para SmartCall, un taller de reparación de celulares y computadores en San Antonio, Chile. Funciona como un ERP/CRM ligero para administrar todo el ciclo de un taller técnico.
 
